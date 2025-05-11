@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which developer created 'The Witcher 3: Wild Hunt'?",
+    "correctAnswer": "CD Projekt Red",
+    "answers": ["Ubisoft", "CD Projekt Red", "Bethesda", "Rockstar Games"]
+  },
+  {
+    "question": "In which game would you find the character Kratos?",
+    "correctAnswer": "God of War",
+    "answers": ["Dark Souls", "God of War", "Assassin's Creed", "Skyrim"]
+  },
+  {
+    "question": "Which of these games is NOT made by Rockstar Games?",
+    "correctAnswer": "Far Cry 5",
+    "answers": ["Red Dead Redemption 2", "GTA V", "Max Payne 3", "Far Cry 5"]
+  },
+  {
+    "question": "What is the name of the protagonist in 'Cyberpunk 2077'?",
+    "correctAnswer": "V",
+    "answers": ["Jack", "Morgan", "V", "Niko"]
+  },
+  {
+    "question": "Which series features a hidden blade as a signature weapon?",
+    "correctAnswer": "Assassin's Creed",
+    "answers": ["Call of Duty", "Tomb Raider", "Far Cry", "Assassin's Creed"]
+  },
+  {
+    "question": "Which game studio developed 'Elden Ring'?",
+    "correctAnswer": "FromSoftware",
+    "answers": ["Capcom", "CD Projekt", "FromSoftware", "Bandai Namco"]
+  },
+  {
+    "question": "In 'The Last of Us', what is the name of the girl Joel protects?",
+    "correctAnswer": "Ellie",
+    "answers": ["Sarah", "Ellie", "Tess", "Abby"]
+  },
+  {
+    "question": "Which FPS game features 'Ghost' and 'Soap' as characters?",
+    "correctAnswer": "Call of Duty: Modern Warfare",
+    "answers": ["Battlefield", "Far Cry", "Call of Duty: Modern Warfare", "Valorant"]
+  },
+  {
+    "question": "Which game is known for the quote 'Do a barrel roll!'?",
+    "correctAnswer": "Star Fox 64",
+    "answers": ["Halo", "Star Fox 64", "Destiny", "Metroid Prime"]
+  },
+  {
+    "question": "In 'Horizon Zero Dawn', what is Aloy fighting against?",
+    "correctAnswer": "Machines",
+    "answers": ["Aliens", "Mutants", "Machines", "Demons"]
+  }
+]

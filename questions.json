@@ -1,52 +1,92 @@
 [
   {
     "question": "Which developer created 'The Witcher 3: Wild Hunt'?",
-    "correctAnswer": "CD Projekt Red",
-    "answers": ["Ubisoft", "CD Projekt Red", "Bethesda", "Rockstar Games"]
+    "answers": [
+      { "answer": "Ubisoft", "correct": false },
+      { "answer": "CD Projekt Red", "correct": true },
+      { "answer": "Bethesda", "correct": false },
+      { "answer": "Rockstar Games", "correct": false }
+    ]
   },
   {
     "question": "In which game would you find the character Kratos?",
-    "correctAnswer": "God of War",
-    "answers": ["Dark Souls", "God of War", "Assassin's Creed", "Skyrim"]
+    "answers": [
+      { "answer": "Dark Souls", "correct": false },
+      { "answer": "God of War", "correct": true },
+      { "answer": "Assassin's Creed", "correct": false },
+      { "answer": "Skyrim", "correct": false }
+    ]
   },
   {
     "question": "Which of these games is NOT made by Rockstar Games?",
-    "correctAnswer": "Far Cry 5",
-    "answers": ["Red Dead Redemption 2", "GTA V", "Max Payne 3", "Far Cry 5"]
+    "answers": [
+      { "answer": "Red Dead Redemption 2", "correct": false },
+      { "answer": "GTA V", "correct": false },
+      { "answer": "Max Payne 3", "correct": false },
+      { "answer": "Far Cry 5", "correct": true }
+    ]
   },
   {
     "question": "What is the name of the protagonist in 'Cyberpunk 2077'?",
-    "correctAnswer": "V",
-    "answers": ["Jack", "Morgan", "V", "Niko"]
+    "answers": [
+      { "answer": "Jack", "correct": false },
+      { "answer": "Morgan", "correct": false },
+      { "answer": "V", "correct": true },
+      { "answer": "Niko", "correct": false }
+    ]
   },
   {
     "question": "Which series features a hidden blade as a signature weapon?",
-    "correctAnswer": "Assassin's Creed",
-    "answers": ["Call of Duty", "Tomb Raider", "Far Cry", "Assassin's Creed"]
+    "answers": [
+      { "answer": "Call of Duty", "correct": false },
+      { "answer": "Tomb Raider", "correct": false },
+      { "answer": "Far Cry", "correct": false },
+      { "answer": "Assassin's Creed", "correct": true }
+    ]
   },
   {
     "question": "Which game studio developed 'Elden Ring'?",
-    "correctAnswer": "FromSoftware",
-    "answers": ["Capcom", "CD Projekt", "FromSoftware", "Bandai Namco"]
+    "answers": [
+      { "answer": "Capcom", "correct": false },
+      { "answer": "CD Projekt", "correct": false },
+      { "answer": "FromSoftware", "correct": true },
+      { "answer": "Bandai Namco", "correct": false }
+    ]
   },
   {
     "question": "In 'The Last of Us', what is the name of the girl Joel protects?",
-    "correctAnswer": "Ellie",
-    "answers": ["Sarah", "Ellie", "Tess", "Abby"]
+    "answers": [
+      { "answer": "Sarah", "correct": false },
+      { "answer": "Ellie", "correct": true },
+      { "answer": "Tess", "correct": false },
+      { "answer": "Abby", "correct": false }
+    ]
   },
   {
     "question": "Which FPS game features 'Ghost' and 'Soap' as characters?",
-    "correctAnswer": "Call of Duty: Modern Warfare",
-    "answers": ["Battlefield", "Far Cry", "Call of Duty: Modern Warfare", "Valorant"]
+    "answers": [
+      { "answer": "Battlefield", "correct": false },
+      { "answer": "Far Cry", "correct": false },
+      { "answer": "Call of Duty: Modern Warfare", "correct": true },
+      { "answer": "Valorant", "correct": false }
+    ]
   },
   {
     "question": "Which game is known for the quote 'Do a barrel roll!'?",
-    "correctAnswer": "Star Fox 64",
-    "answers": ["Halo", "Star Fox 64", "Destiny", "Metroid Prime"]
+    "answers": [
+      { "answer": "Halo", "correct": false },
+      { "answer": "Star Fox 64", "correct": true },
+      { "answer": "Destiny", "correct": false },
+      { "answer": "Metroid Prime", "correct": false }
+    ]
   },
   {
     "question": "In 'Horizon Zero Dawn', what is Aloy fighting against?",
-    "correctAnswer": "Machines",
-    "answers": ["Aliens", "Mutants", "Machines", "Demons"]
+    "answers": [
+      { "answer": "Aliens", "correct": false },
+      { "answer": "Mutants", "correct": false },
+      { "answer": "Machines", "correct": true },
+      { "answer": "Demons", "correct": false }
+    ]
   }
 ]
